@@ -1,12 +1,3 @@
-django-fullpage
-===================
-
-
-django-fullpage is a django project that uses [fullpage.js](http://alvarotrigo.com/fullPage/) to create simple page website.
-See demo on [djangoproject.tk](http://djangoproject.tk)
-----------
-
-
 installation
 --------------------
 - requirements: install following packages via **pip** or **easy_install**
