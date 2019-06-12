@@ -45,7 +45,3 @@ $ python manage.py migrate fullpage
 $ python manage.py runserver
 ```
 
-> **Note:**
-
-> - Some settings are depend on your project. If you have any problem with installation of django-fullpage see our wiki or ask us.
-
